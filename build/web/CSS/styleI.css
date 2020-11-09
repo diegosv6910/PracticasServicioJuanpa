@@ -1,0 +1,23 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	width: 980px;
+	background: #7FC3BC;
+	margin: auto;
+	border: solid 1px #E6E6FA;
+    font-family: Papyrus;
+	font-weight: bold;
+}
+header, body, section{
+	display: block;
+}
+form{
+	padding: 10px;
+	border: solid 1px #E6E6FA;
+}
+.cabezera{
+	text-align: center;
+	border: solid 1px #E6E6FA;
+}
